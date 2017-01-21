@@ -76,3 +76,5 @@ Tell me this tomorrow
 * How to seperate my work if stashed has been pop 2 times?
 * How do I find my work if I `stash pop` some files and then did `git checkout .` ?
 
+### Animation Link:
+*[Learn git through Animation](http://learngitbranching.js.org/)
